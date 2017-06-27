@@ -133,7 +133,7 @@ print("-----------------------------\n")
 #from dstoltz.QL_Quality_Jan_Apr2017"""
 
 #Run query and generate dataset
-#username,password='ggiorcelli','BigData1'
+#username,password='**********','**********'
 #df=generate_dataframe_from_teradata(username,password,'TDPRD',sql)
 
 #Pickle the dataset
